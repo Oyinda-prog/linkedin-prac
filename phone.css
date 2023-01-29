@@ -1,0 +1,233 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    right: 2%;
+}
+#two{
+    display: none;
+}
+#three{
+    left: 200px;
+}
+#three hr{
+    display: none;
+}
+#four{
+    display: block;
+    left: 2%;
+}
+#six{
+    width: 50%;
+    height: 50%;
+    margin-left: 130px;
+}
+#to{
+    position: absolute;
+    top: 50px;
+    width: 270px;
+    border-radius: 15px;
+    height: 30px;
+    border: 2px solid whitesmoke;
+}
+#explore>h2{
+    position: absolute;
+    left: 20px;
+    /* font-size: 20px; */
+    top: 250px;
+    color: black;
+   
+    font-weight: 10;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 45px;
+    /* font-size: 28px; */
+    background-color: rgba(0, 0, 0, 0);
+   
+}
+
+#five>h1{
+    font-size: 23px;            
+}
+#five>input{
+    width: 80%;
+    height: 40px;
+}
+#eleven>a{
+   width: 410px;
+}
+#nine{
+    width: 420px;
+}
+#seven>span>hr{
+    width: 200px;
+    position: relative;
+    left: 70px;
+}
+#workplace{
+    top: 260px;
+    left: -20px;
+}
+
+#work{
+    position: absolute;
+    left: px;
+    top: 350px;
+}
+#work>a{
+    /* position: absolute; */
+    left: -380px;
+    top: 90px;
+}
+#work>h2{
+    top: 50px;
+    left: -370px;
+}
+#right>h2{
+    top: 300px;
+    left: 20px;
+}
+body{
+    overflow-x: hidden;
+}
+#post{
+    top: 750px;
+    left: -10px;
+}
+#posta{
+    position: absolute;
+    top: 70px;
+    left: -310px;
+}
+#know>h2{
+    position: relative;
+    left: 30px;
+    top: 480px;
+}
+#know>span{
+    position: relative;
+    left: 30px;
+    top: 500px;
+}
+#connect>img{
+    position: relative;
+    top: 920px;
+    left: -140px;
+    height: 10px; 
+    width: 10px
+  }
+  #who{
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0);
+   
+  }
+  #who>img{
+    position: relative;
+    top: 1050px;
+    left: 50px;
+  }
+  #who>span{
+    position: absolute;
+    top: 1250px;
+    left: 30px;
+    font-size: 25px;
+    line-height: 25px;
+  }
+  #who>a{
+    position: absolute;
+    top: 1310px;
+    left: 60px;
+  }
+  #learn>img{
+    position: relative;
+    top: 1350px;
+    left: -100px;
+  }
+  #learn>span{
+    position: absolute;
+    top: 1550px;
+    left: 50px;
+  }
+  #learn>select{
+    position: absolute;
+    top: 1650px;
+    left: 50px;
+    width: 90%;
+  }
+  #linked>h2{
+    font-size: 30px;
+    position: absolute;
+    top: 300px;
+    left: 50px;
+}
+#linked>span{
+    font-size: 30px;
+    left: 60px;
+    position: absolute;
+    top: 350px;
+}
+#linked>a{
+    position: relative;
+    left: 60px;
+    top: 400px;
+}
+  #imagee{
+    width: 40%;
+    height: 40%;
+    border-radius: 20%;
+    margin-left:-100px;
+    margin-top: 600px;
+}
+#your>span{
+    font-size: 30px;
+   position: relative;
+    left: -20px;
+   top: 260px;
+}
+#your>a{
+    font-size: 12px;
+    position: relative;
+     left: -20px;
+    top: 250px;
+  }
+  #to>span>a{
+    position: relative;
+   display: none;
+}
+#cover{
+    height: 1000px;
+    margin-top: 100px;
+}
+table, tr,th,td{
+    width: 700px;
+    height: 30px;
+    position: relative;
+    font-size: 10px;
+    padding: 1px;
+    left: -0px;
+
+}
+#divone{
+    position: relative;
+    left: 500px;
+}
+#bout{
+    display: flex;
+    position: relative;
+    left: 100px;
+}
+#bout>span{
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace
+   
+}
+#bout>span>a{
+    font-size: 7px;
+    text-decoration: none;
+    position: relative;
+    color: black;
+    opacity: 70%;
+    
+
+    
+}
